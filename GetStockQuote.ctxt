@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GetStockQuote
+comment0.text=\n\ GetStockQuote\ requests\ the\ current\ stock\ price\ for\ a\ \n\ ticker\ symbol\ of\ your\ choice.\n
+comment1.params=ticker
+comment1.target=double\ Get(java.lang.String)
+comment1.text=\n\ Retrieve\ stock\ data\ from\ marketdata.app\ API\n\ \n\ @param\ ticker\ Ticker\ symbol\n\ @return\ \ JSON\ data\ with\ the\ stock\ information\n
+numComments=2
